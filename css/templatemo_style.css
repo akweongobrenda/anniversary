@@ -477,6 +477,8 @@ a.menu-toggle-btn {
 }
 .templatemo_loveLetter button{
 	border: none; 
+	border-radius: 5px;
+	border-bottom: 1px solid #ffff;
 	background: #b79e41; 
 	color: #ffffff; 
 	text-transform: uppercase;
