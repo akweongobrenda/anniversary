@@ -1,5 +1,5 @@
 body{
-    background: url("bg.png") no-repeat center center fixed; 
+    
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -17,10 +17,10 @@ body{
     padding-top: 30px;
     font-size: 48px;
     font-weight: bold;
-    color: azure;
+    color: grey;
 }
 #pick{
-    color: azure;
+    color: grey;
     font-size: 30px;
 }
 select{
@@ -31,7 +31,7 @@ select{
     font-weight: bold;
     border-radius: 0px 10px 0px 10px;
     text-align: center;
-    border-bottom: 3px solid red;
+    border-bottom: 3px solid grey;
 }
 option{
     font-size: 20px;
