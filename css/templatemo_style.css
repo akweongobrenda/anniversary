@@ -14,7 +14,13 @@ html, body {
 	background: #393e42;
 	font-size: 12px;
 }
-
+#welcome{
+    padding-top: 30px;
+    font-size: 48px;
+    font-weight: bold;
+    color: grey;
+    font-family: 'Explora', serif;
+}
 .blue {
 	color: #0CF;
 }
