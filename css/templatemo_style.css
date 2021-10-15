@@ -476,7 +476,7 @@ a.menu-toggle-btn {
 	margin-bottom:10%;
 }
 .templatemo_loveLetter button{
-	border: none; 
+	border: transparent; 
 	border-radius: 5px;
 	border-bottom: 1px solid #ffff;
 	background: #b79e41; 
